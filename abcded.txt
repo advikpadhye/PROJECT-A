@@ -1,1 +1,6 @@
 new project
+
+this is the\
+testiung project
+how to use the project
+
